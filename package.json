@@ -6,6 +6,11 @@
   "scripts": {
     "test": "tape test.js"
   },
+  "greenkeeper": {
+    "ignore": [
+      "@posva/test-pr-other-lib"
+    ]
+  },
   "dependencies": {
     "@posva/test-pr-lib": "^1.0.1",
     "@posva/test-pr-other-lib": "^1.0.1",
