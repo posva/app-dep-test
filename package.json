@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "tape test.js"
+  },
   "dependencies": {
     "@posva/test-pr-lib": "^1.0.1",
     "tape": "^4.9.0"
