@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "statusCheckVerify": true,
+  "ignoreDeps": [
+    "@posva/test-pr-other-lib"
+  ]
+}
