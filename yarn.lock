@@ -6,6 +6,10 @@
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@posva/test-pr-lib/-/test-pr-lib-1.0.2.tgz#917369f632567e613d097cd98c2768e1b9523892"
 
+"@posva/test-pr-other-lib@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@posva/test-pr-other-lib/-/test-pr-other-lib-1.0.1.tgz#51d0af8c6710b6fbf897ed436484976038b570be"
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
